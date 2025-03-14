@@ -18,4 +18,7 @@ Nous avons **2 repositories distincts** :
 ## ✨ **Guidance**  
 Un expert en IA de **Headmind Partners** supervise le projet, offrant des retours réguliers et des idées.
 
+## **Résultat actuel**
+<img src="dataset_evaluation.png">
+
 ---
